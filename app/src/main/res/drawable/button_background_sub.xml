@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:state_pressed="true" android:drawable="@drawable/shape_round_5dp_empty_clicked" />
+    <item android:color="@color/colorMain" android:drawable="@drawable/shape_round_5dp_empty" />
+</selector>

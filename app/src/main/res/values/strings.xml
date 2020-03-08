@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TodoApp</string>
+
+    <!-- EmailPasswordActivity -->
+    <string name="label_emailpassword">ログイン</string>
+    <string name="desc_emailpassword">メールアドレスを使用してログイン。</string>
+    <string name="hint_email">メールアドレス</string>
+    <string name="hint_password">パスワード</string>
+    <string name="button_login">ログイン</string>
+    <string name="button_create_account">新規登録</string>
+
+    <!-- common -->
+    <string name="error_message_required">必須項目</string>
+
 </resources>
