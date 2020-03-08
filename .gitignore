@@ -231,3 +231,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.gitignore.io/api/java,android,firebase,androidstudio
+app/gradlew
+app/gradlew.bat
+app/gradle/wrapper/gradle-wrapper.properties
